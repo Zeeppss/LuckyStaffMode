@@ -21,7 +21,6 @@ Commands:
 
 Features:
 - Automatically notifies staff if a frozen player disconnects and automatically re-freezes them if they re-joined in under 60 seconds.
-- Automatically toggles staffmode when vanishing.
 - Hooks with StrikePractice so the fight/battle will automatically end if one of the players got frozen
 - Saves the player's inventory before giving them the staffmode items and restores them when the player leaves staff mode.
 ```
